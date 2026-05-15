@@ -7,3 +7,7 @@ Additional conditioning filters using speculative divergence and open-interest e
 Return distributions across agricultural futures exhibited substantial excess kurtosis, particularly in lean hogs, consistent with episodic shock-driven behavior and clustered volatility regimes.
 
 Because signal rules were developed iteratively on the historical dataset, reported backtest results may contain in-sample bias. A next step would be strict chronological holdout validation and walk-forward testing.
+
+Excess conditional returns generally strengthened through intermediate holding periods before gradually compressing at very extended horizons, suggesting partial convergence toward broader market drift at longer windows.
+
+given the small sample sizes, a fixed fractional allocation was preferred over Kelly to avoid overfitting the sizing to noisy return estimates.
