@@ -33,5 +33,5 @@ Preliminary backtesting produced risk-adjusted performance metrics consistent wi
 * reqs.txt
     * Contains all required libraries.
 * writeup.pdf
-    * Goes into further detail about the process of the project and its findings.
+    * Contains detailed discussion of methodoly, findings, and limitations. 
 
