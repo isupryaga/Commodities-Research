@@ -24,10 +24,14 @@ Preliminary backtesting produced risk-adjusted performance metrics consistent wi
 ## Repository Structure
 
 
-* data
+* /data
     * Contains cleaned COT dataset.
 * 01_cot_data_cleaning.ipynb
     * Cleans and preprocesses raw cumulative COT reports, filtering relevant markets and positioning variables.
 * 02_signal_analysis_and_portfolio.ipynb
     * Develops positioning based trading signals, analyzes conditional return behavior, and constructs portfolio backtests and performance metrics.
+* reqs.txt
+    * Contains all required libraries.
+* writeup.pdf
+    * Goes into further detail about the process of the project and its findings.
 
