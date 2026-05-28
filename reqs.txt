@@ -1,0 +1,8 @@
+cot-reports
+yfinance
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+ipython
