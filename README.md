@@ -29,9 +29,9 @@ Preliminary backtesting produced risk-adjusted performance metrics consistent wi
 * 01_cot_data_cleaning.ipynb
     * Cleans and preprocesses raw cumulative COT reports, filtering relevant markets and positioning variables.
 * 02_signal_analysis_and_portfolio.ipynb
-    * Develops positioning based trading signals, analyzes conditional return behavior, and constructs portfolio backtests and performance metrics.
+    * Develops positioning-based trading signals, analyzes conditional return behavior, and constructs portfolio backtests and performance metrics.
 * reqs.txt
     * Contains all required libraries.
 * writeup.pdf
-    * Contains detailed discussion of methodoly, findings, and limitations. 
+    * Contains detailed discussion of methodology, findings, and limitations. 
 
