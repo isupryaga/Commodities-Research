@@ -1,4 +1,4 @@
-# Commodity Futures Positioning Signal Research Using CFTC COT Data
+# (Unfinished) Commodity Futures Positioning Signal Research Using CFTC COT Data
 
 
 This project investigates whether extreme commercial positioning in CFTC Commitment of Traders (COT) data contains predictive information about directional price movement in commodity futures.
